@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+...This is the starting step of the bot app...
 
 ## What it does
 
-FEATURES PLACEHOLDER
+....the bot is mainly used for the communication and used to create the apps.....
 
 ## Getting started
 
